@@ -42,9 +42,7 @@ you can then see the local site at http://localhost:8080.
 
 ## deployment
 
-the site is automatically built and deployed to the web by [netlify](https://netlify.com). any time you push to main, the changes should be deployed within a minute or two.
-
-the site deploys to https://boshis.place.
+see [here](https://www.notion.so/hawkdanny/making-changes-to-the-boshi-website-1a319845ae5c80babbd8f223e7a8045f)
 
 ## structure
 
